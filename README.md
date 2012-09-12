@@ -59,6 +59,10 @@ How to use
 Future releases
 ---------------
 
+Build more robust server implementation.
+
+Provide server implementations in many different server-side languages and platforms.
+
 Support for Web Sockets to reduce performance issues related to server polling.
 
 Server-based authentication options.
