@@ -1,4 +1,4 @@
-jquery-prism
+jquery.ui.prism
 ============
 
 **Version 0.1**
